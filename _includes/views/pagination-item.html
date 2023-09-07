@@ -38,10 +38,13 @@
     {%- if post.author -%}
     <span class="post-author left-vsplit"><i class="fa fa-pencil"></i> {{ post.author | escape }}</span>
     {%- endif -%}
+    <!--
     <span class="post-reading-time left-vsplit"><i class="fa fa-clock-o"></i> {{ reading_time }}</span>
+  -->
   </div>
   <div class="post-excerpt">
     {%- if post_image -%}
+    <!--About min-->
     <!-- <a class="post-image" href="{{ post_url }}" style="flex: 0 1 {{ image_width }}">
       <div style="background-image: url({{ post_image | relative_url }}); height: {{ image_height }}"></div>
     </a>-->
