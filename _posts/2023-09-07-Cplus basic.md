@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [C++] for문을 통한 별찍기 문제
+title: "[C++]" for문을 통한 별찍기 문제
 subtitle: C++
 author: Jane
 categories: C++ 
