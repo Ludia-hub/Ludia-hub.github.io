@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "This post demonstrates post content styles"
-categories: junk
+categories: vlogstudy
 author: "Bart Simpson"
 meta: "Springfield"
 ---
