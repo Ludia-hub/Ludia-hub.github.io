@@ -18,7 +18,7 @@ banner:
   subheading_style: "color: gold"
 tags: C++ 
 top: 1
-sidebar: [C++]
+sidebar: []
 ---
 본 카테고리는 C++ 문법에 대한 설명이다. 본인은 백준문제를 통해 C++ 프로그래밍에 필요한 중요한 스킬들을 쌓을 수 있었다. 참고서나 강의를 통해 배운 C++ 교육 내용을 적용시키는 시간을 꼭 갖기를 바란다. 
 
